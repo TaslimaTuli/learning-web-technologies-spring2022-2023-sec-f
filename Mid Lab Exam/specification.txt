@@ -1,0 +1,2 @@
+Registration|[Admin, Student, Faculty, Staff]|form input submit|qwertrte| Email (input) field should only accept valid Email|regi.png|signup
+Add notice|[Admin]|form input submit|-write notice, notice description - clicking on submit button to submit|-must write notice, notice description -must clicking on submit button to submit|slider_image.jpg|add_notice
