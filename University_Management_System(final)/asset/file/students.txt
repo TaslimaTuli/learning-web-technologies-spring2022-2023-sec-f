@@ -1,0 +1,6 @@
+Tuli|Female|ajraftuli@gmail.com|01122334455|Dhaka|3.6
+xyz|Male|xyz@gmail.com|01235455676|Dhaka|3.4
+Luffy|Male|luffyThePirateKing@gmail.com|01123456789|East Blue|3.2
+Nico Robin|Female|nico@gmail.com|02233445566|West Blue|4.00
+Naruto|Male|naruto9@gmail.com|01122334455|Konoha|3.2
+kintu|Male|kintu@gmail.com|01122334455|Dhaka|3.3

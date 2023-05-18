@@ -1,0 +1,9 @@
+aj|ajraftuli@gmail.com|1212|tuli|Female|2023-03-18|admin
+x|x@gmail.com|2345|x|Female|2023-03-01|student
+z|zoro@gmail.com|12345|Zoro|Male|2023-03-19|faculty
+v|ajraftuli@gmail.com|1234|tuli|Male|2023-03-20|student
+tu|asdf@mavengers.com|1234|asdf|Female|2023-03-01|admin
+jk|ajraftuli@gmail.com|1234|tuli|Female|2023-03-20|staff
+t|luffy@gmail.com|2345|Monkey D. Luffy|Male|2023-03-20|faculty
+chopper|ajraftuli@gmail.com|1234|tuli|Female|2023-03-20|staff
+u|ajraftuli@gmail.com|12|1|tuli|Female|2023-03-20|admin
